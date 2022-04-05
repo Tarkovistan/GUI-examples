@@ -1,4 +1,4 @@
-//test
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
@@ -27,6 +27,11 @@ public class Gui1 {
 		frame.pack();frame.setVisible(true);
 
 	}
+	public static void method1() {
+		
+	}
+	
+	
 
 	private static void makeMenuBar() {
 		JMenuBar menubar = new JMenuBar();
