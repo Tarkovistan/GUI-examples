@@ -28,7 +28,8 @@ public class Gui1 {
 
 	}
 	public static void method1() {
-		
+		System.out.println("change4");
+		System.out.println("change5");
 	}
 	
 	
